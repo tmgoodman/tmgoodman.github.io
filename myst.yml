@@ -22,8 +22,8 @@ project:
       - file: 05-research.md
 
   numbering:
-    heading_1: true
-    heading_2: true
+    heading_1: false
+    heading_2: false
 site:
   template: book-theme
   options:
